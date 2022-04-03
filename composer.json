@@ -4,7 +4,4 @@
   "type": "drupal-theme",
   "license": "GPL-2.0-or-later",
   "homepage": "https://github.com/hasangnu/bootstrap_barrio",
-  "require": {
-    "twbs/bootstrap": "^4.4.1"
-  }
 }
