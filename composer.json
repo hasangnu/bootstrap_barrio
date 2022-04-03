@@ -6,9 +6,5 @@
   "homepage": "https://github.com/hasangnu/bootstrap_barrio",
   "require": {
     "twbs/bootstrap": "^4.4.1"
-  },
-  "authors": [{
-    "name": "Alberto Siles",
-    "email": "alberto@siles.pe"
-  }]
+  }
 }
